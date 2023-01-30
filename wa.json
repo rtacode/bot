@@ -1,1 +1,6 @@
-
+{
+  "@skinml":
+  {
+    "url": "Name of the incoming message app"
+  }
+}
