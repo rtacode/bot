@@ -1,6 +1,15 @@
 {
-  "@skinml":
-  {
-    "url": "Name of the incoming message app"
-  }
+  "skinml": [
+    {
+      "zilong": {
+        "normal": "xx",
+        "elit": "zz",
+        "epik": "aa"
+      },
+      "chou": {
+        "normal": "yy",
+        "kof": "rt"
+      }
+    }
+  ]
 }
