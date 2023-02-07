@@ -1,15 +1,14 @@
-{
-  "skinml": [
-    {
-      "zilong": {
-        "normal": "xx",
-        "elit": "zz",
-        "epik": "aa"
-      },
-      "chou": {
-        "normal": "yy",
-        "kof": "rt"
-      }
-    }
-  ]
-}
+[
+  {
+    "id": "6281287123512@s.whatsapp.net",
+    "name": "Rizki Kotet",
+    "time": "12:22:07",
+    "serial": "ee830de93bed7f6ebe73"
+  },
+  {
+    "id": "6285692038772@s.whatsapp.net",
+    "name": "Rita Geboy",
+    "time": "12:22:07",
+    "serial": "7f49b8270248ef601e4f"
+  }
+]
